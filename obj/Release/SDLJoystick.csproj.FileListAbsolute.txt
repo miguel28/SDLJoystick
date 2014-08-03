@@ -1,0 +1,6 @@
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Release\SDL.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Release\SDL64.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Release\SDLJoystick.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Release\SDLJoystick.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Release\SDLJoystick.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Release\SDLJoystick.pdb
