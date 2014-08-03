@@ -1,0 +1,7 @@
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Debug\SDLJoystick.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Debug\SDLJoystick.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Debug\SDLJoystick.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Debug\SDLJoystick.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Debug\SDLJoystick.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Debug\SDL.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Debug\SDL64.dll
