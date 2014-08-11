@@ -4,3 +4,4 @@ C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\
 C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\bin\Release\SDLJoystick.pdb
 C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Release\SDLJoystick.dll
 C:\Users\Mike\documents\visual studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Release\SDLJoystick.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\HIDJoystick\SDLJoystick\obj\Release\SDLJoystick.csprojResolveAssemblyReference.cache
